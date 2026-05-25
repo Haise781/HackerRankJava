@@ -1,10 +1,6 @@
-import com.sun.source.doctree.EscapeTree;
-
-import javax.swing.*;
-import java.security.PublicKey;
 import java.util.Scanner;
 
-public class TRYCODE {
+public class IfElseStament {
     static void main() {
         Scanner scanner = new Scanner(System.in);
         char ch;
